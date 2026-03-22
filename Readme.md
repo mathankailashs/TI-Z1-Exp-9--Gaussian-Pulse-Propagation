@@ -1,6 +1,8 @@
-
 # Gaussian-Pulse-Propagation
 # Broadening of Gaussian Pulses
+
+## Name : Mathan Kailash S
+## Reg No : 212223060156
 
 ## Objective
 Compare the results predicted by the linear system model of an optical fiber with the results of simulation.
@@ -66,3 +68,14 @@ Compare the simulation results with the theoretical calculations and discuss any
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+
+## Calculation
+<img width="691" height="1280" alt="image" src="https://github.com/user-attachments/assets/a615287d-11e2-4eb9-936e-ed5abf034929" />
+
+## Output
+<img width="722" height="1020" alt="image" src="https://github.com/user-attachments/assets/f21f2e5b-dc31-401b-ac5a-1cb7766afd9c" />
+
+## Result
+
+Hence,the results predicted by the linear system model of an optical fiber with the results of simulation
+
